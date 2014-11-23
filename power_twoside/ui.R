@@ -4,7 +4,7 @@ library(shiny)
 shinyUI(pageWithSidebar(
   
   #  Application title
-  headerPanel("Power: One-Sided Test for a Normal Mean, Population Variance Known"),
+  headerPanel("Power: Two-Sided Test for a Normal Mean, Population Variance Known"),
   
   # Sidebar with sliders that demonstrate various available options
   sidebarPanel(
